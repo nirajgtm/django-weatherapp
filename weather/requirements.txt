@@ -1,4 +1,4 @@
 Django==3.0.2
 geolocation-python==0.2.2
 requests==2.20.1
-urllib3==1.24.1
+urllib3==1.26.5
